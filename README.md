@@ -1,7 +1,8 @@
 # Amodya Satriatama Subagio's Data Science Portfolio
 
 Hello! I'm Amo, a data enthusiast with a strong background in analytics and a keen interest in extracting valuable insights from data. This portfolio highlights my journey in data science and analytics, showcasing projects that reflect my skills in data analysis, machine learning, data visualization, and more.
-Contact Information
+
+# Contact Information
 
   - LinkedIn: [Amodya Subagio's LinkedIn](https://www.linkedin.com/in/amodya-subagio/)
   - Email: amossubagio@gmail.com
@@ -31,9 +32,8 @@ Contact Information
 
 # Education
 
-Bachelor of Engineering in Engineering Physics, Institut Teknologi Sepuluh Nopember (ITS), Class of 2020.
-
-Relevant Coursework: Database Technologies, Computer Programming, Statistics.
+  - Bachelor of Engineering in Engineering Physics, Institut Teknologi Sepuluh Nopember (ITS), Class of 2020.
+  - Relevant Coursework: Database Technologies, Computer Programming, Statistics.
 
 # Certifications
 
