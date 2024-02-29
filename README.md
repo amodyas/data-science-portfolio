@@ -1,6 +1,5 @@
-# data-science-portfolio
+# Amodya Satriatama Subagio's Data Science Portfolio
 
-Amodya Satriatama Subagio's Data Science Portfolio
 Introduction
 
 Hello! I'm Amodya, a Data Scientist with a strong background in analytics and a keen interest in extracting valuable insights from data. This portfolio highlights my journey in data science, showcasing projects that reflect my skills in data analysis, machine learning, data visualization, and more.
@@ -19,6 +18,7 @@ Technical Skills
 Projects
 
 (Project details to be filled in as per the projects you choose to include)
+
 Education
 
 Bachelor of Engineering in Engineering Physics, Institut Teknologi Sepuluh Nopember (ITS), Specialized in Instrumentation Systems and Engineering of Photonics and Optics.
