@@ -15,14 +15,14 @@ Contact Information
 
 # Projects
 
-Project 1: Banking Marketing Targets
+**Project 1: Banking Marketing Targets**
 
   - Description: The project focuses on analyzing customer profiles and predicting their likelihood to subscribe to term deposits at UNO Bank following a marketing campaign.
   - Tools & Technologies: Utilizing tools such as Python, Pandas, NumPy, Scikit-Learn, and Jupyter Notebook, the team conducted exploratory data analysis, data preprocessing, and modeling with algorithms like Logistic Regression, Decision Tree, and XGBoost.
   - Key Findings or Results: Key findings include the identification of significant predictors for subscription likelihood, such as customer contact duration and previous campaign outcomes, ultimately aiming to increase term deposit subscriptions to 15% as per the management's request.
   - [Link to Project Repository](https://github.com/amodyas/data-science-portfolio/tree/6c9278319145ec1220d4c79cfe38dd3110c827ef/Project%201%20-%20Banking%20Marketing%20Targets)
 
-Project 2: 
+**Project 2: Airline Customer Value Analysis Case**
 
   - Description: The second project delves into unsupervised learning to cluster airline customers based on their value.
   - Tools & Technologies: Utilizing tools such as Python, Pandas, Scikit-Learn, and Matplotlib, the team conducted exploratory data analysis, feature engineering, and K-means clustering.
