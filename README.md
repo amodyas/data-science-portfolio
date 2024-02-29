@@ -32,6 +32,7 @@ Contact Information
 # Education
 
 Bachelor of Engineering in Engineering Physics, Institut Teknologi Sepuluh Nopember (ITS), Class of 2020.
+
 Relevant Coursework: Database Technologies, Computer Programming, Statistics.
 
 # Certifications
