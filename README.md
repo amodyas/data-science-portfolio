@@ -15,8 +15,8 @@ Hello! I'm Amo, a data enthusiast with a strong background in analytics and a ke
   - Other: Git, Adobe Photoshop, Google Workspace, Microsoft Office
 
 ## Projects
-
-[For PDF version, please see here for full overview on all projects](https://drive.google.com/file/d/1WjidzFfw0cy_ZWOo7uJe2JViE2IqfI3F/view?usp=sharing)
+[
+For PDF version, please see here for full overview on all projects](https://drive.google.com/file/d/1wWqjKPKakBudL-NfwCyXgn9UTISVnJwB/view?usp=drive_link)
 
 ### Data Science Projects
 
