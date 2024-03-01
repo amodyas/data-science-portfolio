@@ -21,14 +21,14 @@ Hello! I'm Amo, a data enthusiast with a strong background in analytics and a ke
 **Project 1: Banking Marketing Targets**
 
   - Description: The project focuses on analyzing customer profiles and predicting their likelihood to subscribe to term deposits at UNO Bank following a marketing campaign.
-  - Tools & Technologies: Utilizing tools such as Python, Pandas, NumPy, Scikit-Learn, and Jupyter Notebook, the team conducted exploratory data analysis, data preprocessing, and data modeling with algorithms like Logistic Regression, Decision Trees, Random Forest, AdaBoost, and XGBoost. The outcome was evaluated using metrics like AUC-Score, Recall, Precision, F1-Score, and Accuracy. XGBoost emerged as the final model due to its balanced performance across these metrics.
+  - Tools & Technologies: Utilizing tools such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and Imbalanced-learn (imblearn), the team conducted exploratory data analysis, data preprocessing, and data modeling with algorithms like Logistic Regression, Decision Trees, Random Forest, AdaBoost, and XGBoost. The outcome was evaluated using metrics like AUC-Score, Recall, Precision, F1-Score, and Accuracy. XGBoost emerged as the final model due to its balanced performance across these metrics.
   - Key Findings or Results: Key findings include the identification of significant predictors for subscription likelihood, such as customer contact duration and previous campaign outcomes, ultimately aiming to increase term deposit subscriptions. The model recommended targeting customers predicted to respond positively, achieving a conversion rate increase of above 15%.
   - [Link to Project Repository](https://github.com/amodyas/data-science-portfolio/tree/6c9278319145ec1220d4c79cfe38dd3110c827ef/Project%201%20-%20Banking%20Marketing%20Targets)
 
 **Project 2: Airline Customer Value Analysis Case**
 
   - Description: The second project delves into unsupervised learning to cluster airline customers based on their value.
-  - Tools & Technologies: Utilizing tools such as Python, Pandas, Scikit-Learn, and Matplotlib, the team conducted exploratory data analysis, feature engineering, and K-means clustering.
+  - Tools & Technologies: Utilizing tools such as such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and Imbalanced-learn (imblearn), the team conducted exploratory data analysis, feature engineering, and K-means clustering.
   - Key Findings or Results: The project successfully identified four distinct customer clusters, each with unique characteristics regarding flight habits, financial engagement, and loyalty program involvement. Key findings include tailored business recommendations for each cluster to enhance customer engagement and loyalty.
   - [Link to Project Repository](https://github.com/amodyas/data-science-portfolio/tree/6c9278319145ec1220d4c79cfe38dd3110c827ef/Project%202%20-%20Airline%20Customer%20Value%20Analysis%20Case)
 
