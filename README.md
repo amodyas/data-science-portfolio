@@ -16,6 +16,8 @@ Hello! I'm Amo, a data enthusiast with a strong background in analytics and a ke
 
 ## Projects
 
+[Please see here for full overview on all projects](https://drive.google.com/file/d/1WjidzFfw0cy_ZWOo7uJe2JViE2IqfI3F/view?usp=sharing)
+
 ### Data Science Projects
 
 **Project 1: Banking Marketing Targets**
