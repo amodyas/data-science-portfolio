@@ -42,8 +42,8 @@ Hello! I'm Amo, a data enthusiast with a strong background in analytics and a ke
 
 ## Education
 
-  - Bachelor of Engineering in Engineering Physics, Institut Teknologi Sepuluh Nopember (ITS), Class of 2020.
-  - Relevant Coursework: Database Technologies, Computer Programming, Statistics.
+  - Bachelor of Engineering in Engineering Physics, Institut Teknologi Sepuluh Nopember (ITS)
+  - Relevant Coursework: Database Technologies, Computer Programming, Statistics
 
 ## Certifications
 
