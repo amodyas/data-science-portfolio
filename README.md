@@ -34,7 +34,7 @@ Hello! I'm Amo, a data enthusiast with a strong background in analytics and a ke
   - Description: The project aims to identify key predictors of churn based on behavior and demographic information.
   - Tools & Technologies: Using Python, Pandas for data manipulation, and Matplotlib and Seaborn for visualization, the project delves into data exploration, manipulation, and analysis.
   - Key Findings or Results: Identified significant churn predictors including service usage patterns, contract type, payment method, and demographic factors, informing targeted retention approaches to reduce churn rates.
-[Link to Project Repository](https://github.com/amodyas/data-science-portfolio/tree/83f3056539b4d93d294f8a820a3432680644c63f/Project%203%20-%20Telco%20Customer%20Churn%20Analysis)
+  - [Link to Project Repository](https://github.com/amodyas/data-science-portfolio/tree/83f3056539b4d93d294f8a820a3432680644c63f/Project%203%20-%20Telco%20Customer%20Churn%20Analysis)
 
 
 # Education
