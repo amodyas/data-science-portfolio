@@ -18,7 +18,7 @@ Hello! I'm Amo, a data enthusiast with a strong background in analytics and a ke
 
 ### Data Science Projects
 
-**- Project 1: Banking Marketing Targets**
+**Project 1: Banking Marketing Targets**
 
   - Description: The project focuses on analyzing customer profiles and predicting their likelihood to subscribe to term deposits at UNO Bank following a marketing campaign.
   - Tools & Technologies: Utilizing tools such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and Imbalanced-learn (imblearn), the team conducted exploratory data analysis, data preprocessing, and data modeling with algorithms like Logistic Regression, Decision Trees, Random Forest, AdaBoost, and XGBoost. The outcome was evaluated using metrics like AUC-Score, Recall, Precision, F1-Score, and Accuracy. XGBoost emerged as the final model due to its balanced performance across these metrics.
