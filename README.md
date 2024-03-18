@@ -11,7 +11,7 @@ Hello! I'm Amo, a data enthusiast with a strong background in analytics and a ke
 
   - Languages: Python, SQL
   - Libraries & Tools: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook, Looker Studio, Tableau
-  - Databases: MySQL
+  - Databases: MySQL, PostgreSQL
   - Other: Git, Adobe Photoshop, Google Workspace, Microsoft Office
 
 ## Projects
